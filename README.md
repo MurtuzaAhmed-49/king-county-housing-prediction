@@ -1,1 +1,1 @@
-# king-county-housing-prediction
+This project predicts King County housing prices using **Linear and Ridge Regression** with **polynomial features**, evaluates model performance with **R² scores**, and includes **data cleaning, exploratory data analysis, and feature impact analysis** using **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, and **Scikit-learn**, as part of a Coursera project.
